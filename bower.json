@@ -1,0 +1,19 @@
+{
+  "name": "angular-empty",
+  "version": "0.0.0",
+  "authors": [
+    "xiaoguangyu <xiaoguangyu@wilddog.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.7",
+    "wilddog-ui": "*"
+  }
+}
